@@ -10,6 +10,6 @@ public class TestSelenium {
 	
 	@Test
 	public void setup() {
-		System.out.println("test");
+		System.out.println("test first case");
 	}
 }
