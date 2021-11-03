@@ -10,6 +10,6 @@ public class TestSelenium {
 	
 	@Test
 	public void setup() {
-		System.out.println("test first case");
+		System.out.println("test first case second branch");
 	}
 }
